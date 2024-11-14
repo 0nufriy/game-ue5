@@ -202,7 +202,7 @@ it.
 ### Shop
 
 The shop opens at the control points and is available near the dock. The
-shop\'s products include the following:
+shop\'s products include the following(approximate):
 
 | **Product.**                                    | **Price.** |
 |-------------------------------------------------|------------|
