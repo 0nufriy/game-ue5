@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+Content/Static/** filter=lfs diff=lfs merge=lfs -text
+Content/Dynamic/VFX/Textures/FireAndFlames/** filter=lfs diff=lfs merge=lfs -text
+Content/Dynamic/VFX/Textures/Realistic_Starter_VFX_Pack_Vol2/** filter=lfs diff=lfs merge=lfs -text
+Content/Dynamic/VFX/Textures/InfinityTextures/** filter=lfs diff=lfs merge=lfs -text
+Content/**/T_*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/**/WAVE_*.uasset filter=lfs diff=lfs merge=lfs -text
