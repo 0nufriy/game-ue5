@@ -470,7 +470,7 @@ status bar at the top).
 
 - Exit - exit from the game and shut down the program.
 
-## Download screen  {#download-screen}
+## Loading screen  {#loading-screen}
 
 > A simple black boot screen with a minimum of animations.
 
